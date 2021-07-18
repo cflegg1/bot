@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODYxNjAxMjkwMzU3MDQ3MzA2.YOMKuw.oE5bhY9KY4xkMFstJSv7zm4BrcU',
+        token: '',
         prefix: '!',
         activity: 'Music In PLRP',
     },
